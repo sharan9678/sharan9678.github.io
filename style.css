@@ -137,7 +137,7 @@ header {
 }
 
 .logo {
-    max-width: 150px;
+    max-width: 200px;
 }
 
 .nav {
@@ -434,7 +434,7 @@ header {
     text-decoration: underline;
 }
 
-.social-list {
+.lalala {
     list-style: none;
     display: flex;
     justify-content: center;
